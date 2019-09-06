@@ -1,6 +1,6 @@
 # i2c-gpio.c
 
-4.17内核版本以后，i2c-gpio被重新定义了见：
+4.15内核版本以后，i2c-gpio被重新定义了见：
 
 https://www.kernel.org/doc/html/v4.17/driver-api/gpio/consumer.html
 
